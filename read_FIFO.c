@@ -1,3 +1,6 @@
+/* original code is from: 
+ * http://www.linuxquestions.org/questions/programming-9/named-pipes-problem-with-write-and-read-825075/
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
