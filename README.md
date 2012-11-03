@@ -13,6 +13,9 @@ About mknod():
         return sys_mknodat(AT_FDCWD, filename, mode, dev);
     }
 
+    From the web link, about "dev": 
+        "If the file type is S_IFCHR or S_IFBLK then dev is checked; otherwise it is ignored. So we passed 0 as the argument."
+
 
 About mode:
     S_IRUSR
