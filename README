@@ -1,7 +1,7 @@
 create_FIFO
 ===========
 
-to show how to create Linux FIFO
+to show how to create/read/write Linux FIFO
 
 The original code is from web link:
     http://linuxprograms.wordpress.com/2008/02/15/programming-with-fifo-mkfifo-mknod/
